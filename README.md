@@ -5,8 +5,8 @@
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/Weather%20app%20ss1.jpg" style="width: 500px; margin-right: 30px;">
-    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/Weather%20app%20ss2.jpg" style="width: 500px; margin-left: 30px;">
+    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/Weather%20app%20ss1.jpg" style="width: 400px; margin-right: 30px;">
+    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/Weather%20app%20ss2.jpg" style="width: 400px; margin-left: 30px;">
 </div>
 
 
