@@ -5,12 +5,13 @@
 </p>
 
 <p align="center">
-    <img src="" align="center">
+    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/Weather%20app%20ss1.jpg" align="center">
+    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/Weather%20app%20ss2.jpg" align="center">
 </p>
 
 <h2>Accuracy</h2>
-    <img src="" align="center">
-
+    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/success%20ss1.jpg" align="center">
+    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/success%20ss2.jpg" align="center">
 
 <h2>Technologies Used</h2>
 
