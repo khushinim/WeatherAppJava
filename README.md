@@ -4,10 +4,12 @@
     The Weather App is a Java-based application that provides users with real-time weather information fetched from the external API. Users can enter a location, and can retrieves weather details, including temperature, weather condition, humidity, and wind speed.
 </p>
 
-<p align="center">
-    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/Weather%20app%20ss1.jpg" align="center">
-    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/Weather%20app%20ss2.jpg" align="center">
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/Weather%20app%20ss1.jpg" style="width: 500px; margin-right: 30px;">
+    <img src="https://github.com/khushinim/WeatherAppJava/blob/master/Weather%20app%20ss2.jpg" style="width: 500px; margin-left: 30px;">
+</div>
+
+
 
 <h2>Accuracy</h2>
     <img src="https://github.com/khushinim/WeatherAppJava/blob/master/success%20ss1.jpg" align="center">
